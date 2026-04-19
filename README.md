@@ -39,7 +39,7 @@ Este proyecto propone una forma experiencial de abordar el tema: en lugar de sol
 
 **Pasos:**
 - Clonar el repositorio: 
-git clone https://github.com/tu-usuario/tu-repositorio.git (ACTUALIZAR LINK)
+https://github.com/EmiflP08/repositorio_TITULACION-_VR_FRAGMENTOS.git
 
 - Abrir el proyecto en Unity Hub 
 - Verificar configuración: Que sirva Meta SDK en Unity
