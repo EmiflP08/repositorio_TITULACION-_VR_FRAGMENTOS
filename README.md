@@ -23,7 +23,7 @@ Este proyecto propone una forma experiencial de abordar el tema: en lugar de sol
 
 ## Características principales 
 - Experiencia VR en primera persona
-- Sistema de locomoción por teleport
+- Sistema de locomoción híbrido: teleport + movimiento libre 
 - Interacción con objetos del entorno
 - Narrativa guiada mediante voz 
 - Representación de consecuencias de la mala calidad del sueño 
@@ -33,8 +33,8 @@ Este proyecto propone una forma experiencial de abordar el tema: en lugar de sol
 
 **Requisitos:**
 - Unity 6 (6000.x LTS) 
-- Meta Quest (2, 3 u otro dispositivo compatible) 
-- Meta XR SDK (Interaction SDK) 
+- Meta Quest 2 (o dispositivo compatible)  
+- XR Interaction Toolkit (configurado en el proyecto) 
 - Cable para conectar el casco con la computadora
 
 **Pasos:**
@@ -42,10 +42,14 @@ Este proyecto propone una forma experiencial de abordar el tema: en lugar de sol
 https://github.com/EmiflP08/repositorio_TITULACION-_VR_FRAGMENTOS.git
 
 - Abrir el proyecto en Unity Hub 
-- Verificar configuración: Que sirva Meta SDK en Unity
+- Verificar configuración XR (XR Interaction Toolkit activo) 
 - Conectar el visor Meta Quest  
 - Ejecutar la escena principal desde Unity 
 
+## Controles
+- **Movimiento libre:** Joystick
+- **Teleport:** Trigger (gatillo)
+- **Agarrar objetos (grab):** Grip button
  
 ## Autoras 
 
